@@ -6,6 +6,8 @@
 🏖️: beach
 🍖: food
 ***
+[Iceland 2024 - Google My Maps](https://www.google.com/maps/d/u/0/edit?mid=1MMcgL0PdF-DAfyMSQBLjwDuOHOxjfq8&ll=64.22733198716794%2C-21.40450934999999&z=8)
+***
 # Great Circle
 (counterclockwise route)
 - ⭐🥾**Kerid Crater**: 15-20 minute walk
