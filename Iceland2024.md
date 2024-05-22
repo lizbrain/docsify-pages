@@ -78,4 +78,4 @@
 ***
 # Reykjavik
 - **Isey Skyr Bar**
-- **Kroner grocery store**
+- **Kronan grocery store**
