@@ -79,5 +79,9 @@
     - 📷**Stykkishólmskirkja Church**: Architecturally interesting church, modern/retro design
 ***
 # Reykjavik
-- **Isey Skyr Bar**
-- **Kronan grocery store**
+- ⭐♨️**Kvika Footbath**
+- ⭐♨️**Sky Lagoon**: Book ahead
+- ⭐📷**Hallgrimskirkja**
+- ⭐♨️**Blue Lagoon**: Book ahead
+- 🍖**Isey Skyr Bar**
+- 🍖**Kronan grocery store**
