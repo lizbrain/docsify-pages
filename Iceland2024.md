@@ -11,6 +11,7 @@
 # Golden Circle
 (counterclockwise route)
 - ⭐🥾**Kerid Crater**: 15-20 minute walk
+- 🍖**Fridheimar**: Tomato farm with tomato dishes
 - ⭐♨️ **Secret Lagoon**: Spend about an hour, very warm
 - ⭐♨️ **Hrunalaug Hot Spring**: Small warm pool
 - 📷**Brúarhlöð**: Small scenic area, picnic area with very blue water
