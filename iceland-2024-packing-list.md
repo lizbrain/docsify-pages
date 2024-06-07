@@ -1,0 +1,82 @@
+# Electronics
+- [ ] Tech pouch
+	- [ ] Lightning to USB-A charging cable
+	- [ ] USB charging block x2
+	- [ ] Portable battery x2
+	- [ ] Micro USB to USB-A cable
+	- [ ] AirPods Pro
+- [ ] International converter
+- [ ] Kindle
+- [ ] Camera bag
+	- [ ] Olympus Mju film camera
+		- [ ] Film x2
+		- [ ] Film camera battery
+	- [ ] Fujifilm XT30ii camera
+		- [ ] USB-C cable
+		- [ ] Battery charger 
+		- [ ] Battery x2
+		- [ ] SD card x4
+# Toiletries
+- [ ] Toiletry bag
+	- [ ] Hairbrush
+	- [ ] Lotion
+	- [ ] Toothbrush and toothpaste
+	- [ ] Shampoo/conditioner
+	- [ ] Deodorant
+	- [ ] Floss
+# First-aid kit
+- [ ] Acetaminophen
+- [ ] Pepto Bismol
+- [ ] Tums
+- [ ] Claritin (non-drowsy)
+- [ ] Sleeping pills
+- [ ] Dayquil/Nyquil (check if allowed)
+- [ ] Anti-diarrheal
+- [ ] Band-aids
+- [ ] Disinfecting wipes
+# Clothes
+- [ ] Down jacket
+- [ ] Rain jacket
+- [ ] Rain pants 
+- [ ] 2 fleece hoodies
+- [ ] 1 base layer long sleeve shirt
+- [ ] 3 synthetic t-shirts
+- [ ] 2 hiking pants 
+- [ ] Uniqlo heattech leggings 
+- [ ] 2 sleep shirts
+- [ ] 1 sleep shorts
+- [ ] 1 lounge pants
+- [ ] 7 underwear
+- [ ] 1 sports bra
+- [ ] 1 bralette
+- [ ] 5 socks 
+- [ ] 1 swimsuit
+- [ ] Hat
+- [ ] Trail sneakers
+- [ ] Hiking boots 
+- [ ] Fanny pack
+- [ ] Beanie
+- [ ] Gloves
+- [ ] Neck gaiter
+- [ ] Dirty clothes bag
+- [ ] Pad pouch
+	- [ ] Liners
+	- [ ] Pads
+# Misc
+- [ ] Wallet
+- [ ] Credit/debit/insurance cards
+- [ ] License
+- [ ] Passport
+- [ ] Extra glasses
+- [ ] Pen
+- [ ] Reusable tote bag
+- [ ] Neck pillow
+- [ ] Eye mask
+- [ ] Sporks x2
+- [ ] Carabiners 
+- [ ] Airtags x3 (camera bag, backpack, suitcase)
+- [ ] Towel
+- [ ] Dry bag
+- [ ] Waterproof phone pouch
+- [ ] Phone strap 
+- [ ] Coffee and tea
