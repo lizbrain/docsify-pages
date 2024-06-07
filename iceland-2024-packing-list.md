@@ -80,3 +80,4 @@
 - [ ] Waterproof phone pouch
 - [ ] Phone strap 
 - [ ] Coffee and tea
+- [ ] Water bottle
