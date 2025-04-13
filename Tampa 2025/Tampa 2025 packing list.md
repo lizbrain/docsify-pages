@@ -48,7 +48,7 @@
 - [ ] Pajama shorts
 - [ ] Bag for dirty laundry
 - [ ] Flip flops
-#### Travel day outfit
+## Travel day outfit
 - [ ] T-shirt 
 - [ ] White linen pants
 - [ ] White linen shirt
