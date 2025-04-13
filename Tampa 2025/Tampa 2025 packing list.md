@@ -1,6 +1,9 @@
 7 nights/8 days
+
 Frontier: 14 x 18 x 8 inches = 33L
+
 Breeze: 17 x 13 x 8 inches = 29L
+
 # Electronics
 - [ ] Pouch
 	- [ ] Anker charging block
